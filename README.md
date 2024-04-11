@@ -26,7 +26,7 @@ summary() : Used to obtain descriptive statistics
 na.omit() : To remove rows with missing values (NA values)
 
 
-## Credit to anyone or any resource that helped with the project:
+## Credit to resource that helped with the project:
 - [70k+ Job Applicants Data](https://www.kaggle.com/datasets/ayushtankha/70k-job-applicants-data-human-resource)
 - [Sorting DataFrame in R using Dplyr](https://www.geeksforgeeks.org/sorting-dataframe-in-r-using-dplyr/)
 - [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/#introduction)
