@@ -1,6 +1,6 @@
 #Name : Sanchi Gupta
 #Date : 15 October 2023
-#Class: ALY6000 71532
+
 
 #Clean Canvas----
 cat("\014") # clears console
